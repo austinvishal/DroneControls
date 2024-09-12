@@ -1,0 +1,11 @@
+﻿  0 File(s) copied
+  QuadControl.cpp
+C:\Users\austi\FCND-Controls-CPP\src\Math\Mat3x3F.h(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\austi\FCND-Controls-CPP\src\Math\Mat3x3F.h(90,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\austi\FCND-Controls-CPP\src\Math\Angles.h(27,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\austi\FCND-Controls-CPP\src\QuadControl.cpp(217,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\austi\FCND-Controls-CPP\src\Math\Quaternion.h(346,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\austi\FCND-Controls-CPP\src\Math\Quaternion.h(344): message : while compiling class template member function 'float SLR::Quaternion<float>::Yaw(void) const'
+C:\Users\austi\FCND-Controls-CPP\src\QuadControl.cpp(312): message : see reference to function template instantiation 'float SLR::Quaternion<float>::Yaw(void) const' being compiled
+C:\Users\austi\FCND-Controls-CPP\src\VehicleDatatypes.h(11): message : see reference to class template instantiation 'SLR::Quaternion<float>' being compiled
+  Simulator.vcxproj -> C:\Users\austi\FCND-Controls-CPP\project\x64\Debug\Simulator.exe
