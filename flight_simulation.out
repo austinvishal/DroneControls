@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Body rate control}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Roll pitch control}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Altitude controller}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Lateral position control}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Yaw control}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.6}{Calculate the motor commands }{section.1}% 7
+\BOOKMARK [1][-]{section.2}{Flight Control Gain Tuning}{}% 8
+\BOOKMARK [2][-]{subsection.2.1}{S1: Intro}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.2}{S2: Body rate and roll/pitch control}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.3}{S3: Position/velocity and yaw angle control}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.4}{S4: Non-idealities and robustness}{section.2}% 12
+\BOOKMARK [2][-]{subsection.2.5}{S5: Tracking trajectories}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.6}{Bonus Scenario}{section.2}% 14
